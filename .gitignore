@@ -1,0 +1,8 @@
+# editor backups
+*~
+*.swp
+*.bak
+
+# logs (future)
+*.log
+
